@@ -67,7 +67,7 @@ https://www.gaianet.ai/setting/gaia-api-keys
 
 Aşağıdaki komutu sunucunda çalıştır
 ```shell
-curl -L -o gaiabot.py https://raw.githubusercontent.com/HerculesNode/Testnet-Rehber/refs/heads/main/Gaia/bot.py
+curl -L -o gaiabot.py https://raw.githubusercontent.com/huseyindurna/Gaia/refs/heads/main/gaiabot.py
 ```
 
 Sunucuda bir screen açarak botu arka planda çalıştır
